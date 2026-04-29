@@ -2,4 +2,3 @@ Initial code
 Feature B
 Buggy Code
 More Bugs
-Wrong Commit
